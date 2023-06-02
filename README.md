@@ -9,6 +9,6 @@ Breakout game I made using a Python Tutorial
 
 ## Troubleshooting
 - You must have Pygame installed
- - You can Install Pygame by opening your command prompt and typing "pip install pygame"
+  - You can Install Pygame by opening your command prompt and typing "pip install pygame"
 - You must have Python installed and included in your environment variables
- - You can Check if Python is installed by opening your command prompt and typing "python --version"
+  - You can Check if Python is installed by opening your command prompt and typing "python --version"
